@@ -12,9 +12,13 @@ is_contact: true
 ## Mailing Address
 
 > SEIEE Buliding 1-307, Shanghai Jiao Tong University
+>
 > No.800 Dongchuan Road
+>
 > Minhang District
+>
 > Shanghai
+>
 > China
 
 ---
