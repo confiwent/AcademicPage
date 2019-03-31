@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [kannw_1230@sjtu.edu.cn](mailto:kannw_1230@sjtu.edu.cn)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+86-18516415125](tel:+86-18516415125)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+> SEIEE Buliding 1-307, Shanghai Jiao Tong University
+> No.800 Dongchuan Road
+> Minhang District
+> Shanghai
+> China
 
 ---
 
-## Social
+## LAB 
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+[MIN](http://min.sjtu.edu.cn/index.htm)
