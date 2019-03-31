@@ -1,6 +1,6 @@
 title: Nuowen Kan
-url: "main.nuowen.pro"
-baseurl: "/researcher"
+# url: "main.nuowen.pro"
+# baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
