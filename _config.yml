@@ -5,7 +5,7 @@ url: "blog.nuowen.pro"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: Nuowen Kan
+tracking_id: Nuowen Kan, 阚诺文
 
 footer: yes
 footer_url: "https://github.com/confiwent"
