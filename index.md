@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="nuowen.jpg">
+<img class="profile-picture" src="nuowen.jpg" width = "165" height = "150">
 
 I am a second-year master student of Institute of Media, Information, and Networking, School of Electronic Information and Electronic Engineering, Shanghai Jiao Tong University, China.
 
