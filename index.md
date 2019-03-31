@@ -10,7 +10,10 @@ I am a master student of Institute of Media, Information, and Networking (MIN), 
 
 ## Research Interest
 
-Deep reinfrocement learning, multimedia communication, smart transport, and network resource optimization.
+- Deep reinfrocement learning
+- multimedia communication
+- smart transport
+- and network resource optimization.
 
 ## Publications
 
