@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="nuowen.jpg" width = "165" height = "150">
 
-I am a master student of Institute of Media, Information, and Networking (MIN), School of Electronic Information and Electronic Engineering, Shanghai Jiao Tong University, China.
+I am a master student of Institute of Media, Information, and Networking (MIN), School of Electronic Information and Electronic Engineering, Shanghai Jiao Tong University, China. You can refer to my [Chinese blog](blog.nuowen.pro) for more details.
 
 ## Research Interest
 
-Deep reinfrocement learning, multimedia communication, Smart City, and next generation network.
+Deep reinfrocement learning, multimedia communication, smart transport, and network resource optimization.
 
 ## Publications
 
