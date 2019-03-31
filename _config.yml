@@ -5,11 +5,11 @@ url: "blog.nuowen.pro"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+tracking_id: Nuowen Kan
 
 footer: yes
 footer_url: "https://github.com/confiwent"
-footer_text: "Page design by Ankit Sultana"
+# footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
