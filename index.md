@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## About Me - Nuowen Kan
 
 <img class="profile-picture" src="nuowen.jpg" width = "165" height = "150">
 
