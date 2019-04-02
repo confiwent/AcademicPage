@@ -1,5 +1,5 @@
 title: Nuowen Kan
-url: "main.nuowen.pro"
+url: "https://main.nuowen.pro"
 # baseurl: "/researcher"
 
 markdown: kramdown
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: Nuowen Kan, 阚诺文
 
 footer: yes
-footer_url: "https://github.com/confiwent"
+footer_url: "https://main.nuowen.pro"
 # footer_text: "Page design by Ankit Sultana"
 
 sass:
