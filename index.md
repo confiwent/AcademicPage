@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="nuowen.jpg" width = "165" height = "150">
 
-I am a master student of Institute of Media, Information, and Networking (MIN), School of Electronic Information and Electronic Engineering, Shanghai Jiao Tong University, China. You can refer to my [Chinese blog](https://blog.nuowen.pro) for more details.
+I am a master student of the Institute of Media, Information, and Networking (MIN), School of Electronic Information and Electronic Engineering, Shanghai Jiao Tong University, China. You can refer to my [Chinese blog](https://blog.nuowen.pro) for more details.
 
 ## Research Interest
 
