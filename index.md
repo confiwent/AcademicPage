@@ -17,7 +17,9 @@ I am a master student of the Institute of Media, Information, and Networking (MI
 
 ## Publications
 
-1. Nuowen Kan, Junni Zou, Kexin Tang, Chenglin Li, Ning Liu, Hongkai Xiong, “Deep Reinforcement Learning-based Rate Adaptation for Adaptive 360-degree Video Streaming”, International Conference on Acoustics, Speech, and Signal Processing (ICASSP’2019), Brighton, UK, May, 2019.
+1. Nuowen Kan, Chengming Liu, Junni Zou, Chenglin Li, Hongkai Xiong, “A Server-side Optimized Hybrid Multicast-Unicast Strategy for Multi-User Adaptive 360-Degree Video Streaming”, IEEE International Conference on Image Processing (ICIP’2019), Taipei, Taiwan, China, Sep. 2019.
 
-2. Chengming Liu, Nuowen Kan, Junni Zou, Qin Yang, Hongkai Xiong, "SERVER-SIDE RATE ADAPTATION FOR MULTI-USER 360-DEGREE VIDEO STREAMING",accepted by IEEE International Conference on Image Processing(ICIP-18), 2018 [\[paper\]](https://ieeexplore.ieee.org/document/8451447)
+2. Nuowen Kan, Junni Zou, Kexin Tang, Chenglin Li, Ning Liu, Hongkai Xiong, “Deep Reinforcement Learning-based Rate Adaptation for Adaptive 360-degree Video Streaming”, International Conference on Acoustics, Speech, and Signal Processing (ICASSP’2019), Brighton, UK, May, 2019. [\[paper\]](https://ieeexplore.ieee.org/document/8683779)
+
+3. Chengming Liu, Nuowen Kan, Junni Zou, Qin Yang, Hongkai Xiong, "SERVER-SIDE RATE ADAPTATION FOR MULTI-USER 360-DEGREE VIDEO STREAMING",accepted by IEEE International Conference on Image Processing(ICIP-18), 2018 [\[paper\]](https://ieeexplore.ieee.org/document/8451447)
 
