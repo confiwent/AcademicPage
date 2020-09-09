@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="nuowen.jpg" width = "165" height = "150">
 
-I am a master student of the Institute of Media, Information, and Networking (MIN), School of Electronic Information and Electronic Engineering, Shanghai Jiao Tong University, China. You can refer to my [Chinese blog](https://blog.nuowen.pro) for more details.
+I received the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, in 2017, and the M.S. degree in Electronics and Communications Engineering from Shanghai Jiao Tong University, China, in 2020. I am currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering, Shanghai Jiao Tong University. My research interests include multimedia communications and reinforcement learning. You can refer to my [Chinese blog](https://blog.nuowen.pro) for more details.
 
 ## Research Interest
 
