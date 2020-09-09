@@ -4,7 +4,7 @@ layout: default
 
 ## About Me - Nuowen Kan
 
-<img class="profile-picture" src="nuowen.jpg" width = "165" height = "150">
+<img class="profile-picture" src="nuowen.jpg" width = "330" height = "300">
 
 I received the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, in 2017, and the M.S. degree in Electronics and Communications Engineering from Shanghai Jiao Tong University, China, in 2020. I am currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering, Shanghai Jiao Tong University. My research interests include multimedia communications and reinforcement learning. You can refer to my [Chinese blog](https://blog.nuowen.pro) for more details.
 
