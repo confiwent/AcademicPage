@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="nuowen.jpg" width = "330" height = "300">
 
-I received the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, in 2017, and the M.S. degree in Electronics and Communications Engineering from Shanghai Jiao Tong University, China, in 2020. I am currently pursuing the Ph.D. degree of computer science and engineering with the Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+I received the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, in 2017, and the M.S. degree in Electronics and Communications Engineering from Shanghai Jiao Tong University, China, in 2020. I am currently pursuing the Ph.D. degree of computer science and engineering with the Department of Computer Science and Engineering, Shanghai Jiao Tong University. [\[Google Scholar\]](https://scholar.google.com/citations?user=OKrLi6UAAAAJ&hl)
 
 ## Research Interest
 
@@ -17,9 +17,9 @@ I received the B.S. degree in Information Engineering from Nanjing University of
 
 ## Publications
 
-1. Kexin Tang, Nuowen Kan, Junni Zou, Chenglin Li, Xiao Fu, Mingyi Hong, Hongkai Xiong, “Multi-user Adaptive Video Delivery over Wireless Networks: A Physical Layer Resource-Aware Deep Reinforcement Learning Approach”, accepted by IEEE Transactions on Circuits and Systems for Video Technology, 2020.
+1. Kexin Tang, Nuowen Kan, Junni Zou, Chenglin Li, Xiao Fu, Mingyi Hong, Hongkai Xiong, “Multi-user Adaptive Video Delivery over Wireless Networks: A Physical Layer Resource-Aware Deep Reinforcement Learning Approach”, accepted by IEEE Transactions on Circuits and Systems for Video Technology, 2020. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9035396)
 
-2. Nuowen Kan, Chengming Liu, Junni Zou, Chenglin Li, Hongkai Xiong, “A Server-side Optimized Hybrid Multicast-Unicast Strategy for Multi-User Adaptive 360-Degree Video Streaming”, IEEE International Conference on Image Processing (ICIP’2019), Taipei, Taiwan, China, Sep. 2019.
+2. Nuowen Kan, Chengming Liu, Junni Zou, Chenglin Li, Hongkai Xiong, “A Server-side Optimized Hybrid Multicast-Unicast Strategy for Multi-User Adaptive 360-Degree Video Streaming”, IEEE International Conference on Image Processing (ICIP’2019), Taipei, Taiwan, China, Sep. 2019. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8803007)
 
 3. Nuowen Kan, Junni Zou, Kexin Tang, Chenglin Li, Ning Liu, Hongkai Xiong, “Deep Reinforcement Learning-based Rate Adaptation for Adaptive 360-degree Video Streaming”, International Conference on Acoustics, Speech, and Signal Processing (ICASSP’2019), Brighton, UK, May, 2019. [\[paper\]](https://ieeexplore.ieee.org/document/8683779)
 
