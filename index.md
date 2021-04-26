@@ -37,5 +37,5 @@ Before that, I received the B.S. degree in Information Engineering from Nanjing 
 
 ## LAB 
 
-[MIN](http://min.sjtu.edu.cn/index.htm)
+[Institute of Media, Information and Network](http://min.sjtu.edu.cn/index.htm)
 
