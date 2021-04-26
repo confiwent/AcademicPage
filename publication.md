@@ -30,7 +30,7 @@
 
     IEEE ICIP 2019
 
-    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8803007) [\[Poster\]](pic/icip_19.png) [\[Slice\]](pic/lecture_icip2019.pptx)
+    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8803007) [\[Poster\]](pic/icip_19.png) [\[Slice\]](https://drive.google.com/file/d/1y6tLxdk-TxEl9gnDd-EnFSwyXgHnoUKQ/view?usp=sharing)
 
 - **Deep Reinforcement Learning-based Rate Adaptation for Adaptive 360-degree Video Streaming**
 
@@ -38,7 +38,7 @@
 
     IEEE ICASSP 2019
 
-    [\[Paper\]](https://ieeexplore.ieee.org/document/8683779) [\[Poster\]](pic/Poster_NwK_ICASSP2019.pdf)
+    [\[Paper\]](https://ieeexplore.ieee.org/document/8683779) [\[Poster\]](https://drive.google.com/file/d/1ZXA_Ut1n-HMu7117lQNG4i1EIK-ACOii/view?usp=sharing)
 
 - **Server-side Rate Adaptation for Multi-User 360-Degree Video Streaming**
 
