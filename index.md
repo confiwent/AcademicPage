@@ -4,7 +4,7 @@ layout: default
 
 ## About Me - Nuowen Kan
 
-<img class="profile-picture" src="nwkan_p2.jpg" width = "540" height = "720">
+<img src="nwkan_p2.jpg" width = "540" height = "720">
 
 I received the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, in 2017, and the M.S. degree in Electronics and Communications Engineering from Shanghai Jiao Tong University, China, in 2020. I am currently pursuing the Ph.D. degree of computer science and engineering with the Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU). 
 

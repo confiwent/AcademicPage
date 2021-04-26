@@ -1,5 +1,6 @@
 # Publications
 1. **Nuowen Kan**, Chenglin Li, Caiyi Yang, Wenrui Dai, Junni Zou, Hongkai Xiong, “Uncertainty-Aware Robust Adaptive Video Streaming with Bayesian Neural Network and Model Predictive Control”, ACM Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV 2021), Istanbul, Turkey, Sept. 2021.
+![](pic/nossdav'21.png)
 
 2. **Nuowen Kan**, Junni Zou, Chenglin Li, Wenrui Dai, Hongkai Xiong, “RAPT360: Reinforcement Learning-Based Rate Adaptation for 360-degree Video Streaming with Adaptive Prediction and Tiling”, accepted by IEEE Transactions on Circuits and Systems for Video Technology, 2021.
 
