@@ -4,7 +4,7 @@
   
   *Nuowen Kan*, Chenglin Li, Caiyi Yang, Wenrui Dai, Junni Zou, Hongkai Xiong
 
-  ACM NOSSDAV 2021
+  ACM NOSSDAV 202121
 
   [\[Code\]](https://github.com/confiwent/BayesMPC) [\[Poster\]](pic/nossdav'21.png)
 
