@@ -19,9 +19,11 @@ sass:
 nav:
  - name: "About"
    link: "/"
+ - name: "Publication"
+   link: "publication"
  - name: "Resume"
    link: "CV_Nuowen_Kan.pdf"
- - name: "Contact"
-   link: "contact"
+#  - name: "Contact"
+#    link: "contact"
 
 theme: jekyll-theme-cayman
