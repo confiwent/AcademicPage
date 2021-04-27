@@ -17,13 +17,13 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "Home"
    link: "/"
  - name: "Publication"
    link: "publication"
  - name: "Resume"
    link: "CV_Nuowen_Kan.pdf"
-#  - name: "Contact"
-#    link: "contact"
+ - name: "Blog"
+   link: "blog.nuowen.pro"
 
 theme: jekyll-theme-cayman
