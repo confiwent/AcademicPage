@@ -1,12 +1,14 @@
 # Publications
 
+<img class="profile-paper-pic" src="pic/nossdav'21.png">
+
 - **Uncertainty-Aware Robust Adaptive Video Streaming with Bayesian Neural Network and Model Predictive Control**
   
   *Nuowen Kan*, Chenglin Li, Caiyi Yang, Wenrui Dai, Junni Zou, Hongkai Xiong
 
   ACM NOSSDAV 2021
 
-  [\[Code\]](https://github.com/confiwent/BayesMPC) [\[Poster\]](pic/nossdav'21.png)
+  [\[Code\]](https://github.com/confiwent/BayesMPC) [\[Framework\]](pic/nossdav'21.png)
 
 - **RAPT360: Reinforcement Learning-Based Rate Adaptation for 360-degree Video Streaming with Adaptive Prediction and Tiling**
 
@@ -14,7 +16,7 @@
 
     IEEE TCSVT 2021
 
-    [\[Poster\]](pic/tcsvt_21.png)
+    [\[Framework\]](pic/tcsvt_21.png)
 
 - **Multi-user Adaptive Video Delivery over Wireless Networks: A Physical Layer Resource-Aware Deep Reinforcement Learning Approach**
 
@@ -22,7 +24,7 @@
 
     IEEE TCSVT 2020
 
-    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9035396) [\[Poster\]](pic/tcsvt_20.png)
+    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9035396) [\[Framework\]](pic/tcsvt_20.png)
 
 - **A Server-side Optimized Hybrid Multicast-Unicast Strategy for Multi-User Adaptive 360-Degree Video Streaming**
 
@@ -30,7 +32,7 @@
 
     IEEE ICIP 2019
 
-    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8803007) [\[Poster\]](pic/icip_19.png) [\[Slice\]](https://drive.google.com/file/d/1y6tLxdk-TxEl9gnDd-EnFSwyXgHnoUKQ/view?usp=sharing)
+    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8803007) [\[Framework\]](pic/icip_19.png) [\[Slice\]](https://drive.google.com/file/d/1y6tLxdk-TxEl9gnDd-EnFSwyXgHnoUKQ/view?usp=sharing)
 
 - **Deep Reinforcement Learning-based Rate Adaptation for Adaptive 360-degree Video Streaming**
 
