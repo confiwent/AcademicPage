@@ -23,15 +23,15 @@ Before that, I received the B.S. degree in Information Engineering from Nanjing 
 * [Github](https://github.com/confiwent)
 * [Linkin](https://www.linkedin.com/in/%E8%AF%BA%E6%96%87-%E9%98%9A-763004119/)
 
-> SEIEE Buliding 1, Shanghai Jiao Tong University (SJTU)
+> Rm. 307, No.1 SEIEE Buliding, 
 >
-> No.800 Dongchuan Road
+> Shanghai Jiao Tong University (SJTU)
 >
-> Minhang District
+> 800 Dongchuan Road, Minhang District
 >
-> Shanghai
+> Shanghai, 200240
 >
-> China
+> P.R. China
 
 ---
 
