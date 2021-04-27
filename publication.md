@@ -1,6 +1,6 @@
 # Publications
 
-<img class="profile-paper-pic" src="pic/nossdav'21.png">
+<img class="profile-paper-pic" src="pic/nossdav'21.png" width = "800" height = "360">
 
 - **Uncertainty-Aware Robust Adaptive Video Streaming with Bayesian Neural Network and Model Predictive Control**
   
